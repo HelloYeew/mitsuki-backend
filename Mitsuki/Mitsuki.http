@@ -1,0 +1,6 @@
+@Mitsuki_HostAddress = http://localhost:5229
+
+GET {{Mitsuki_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
